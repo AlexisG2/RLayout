@@ -121,6 +121,10 @@ header{
 }
 
 .thirdSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     height: 90%;
     width: 100%;
     border: 2px solid cyan;
@@ -175,7 +179,26 @@ header{
     border: 2px solid cornsilk;
 }
 
+.foodPhotos{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 70%;
+    width: 60%;
+    border: 2px solid mediumseagreen;
+}
 
+.foodImage{
+    height: 60%;
+    width: 20%;
+    border: 2px solid greenyellow;
+}
+
+.fourthSection{
+    height: 100%;
+    width: 100%;
+    border: 2px solid blueviolet;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
