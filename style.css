@@ -33,6 +33,147 @@ body{
 /******************************************
 /* LAYOUT
 /*******************************************/
+header{
+    display: flex;
+    height: 10%;
+    width: 100%;
+    border: 2px solid grey;
+}
+
+.logo{
+    height: 100%;
+    width: 20%;
+    border: 2px solid green;
+}
+
+.list{
+    height: 100%;
+    width: 60%;
+    border: 2px solid black;
+}
+
+.icons{
+    height: 100%;
+    width: 20%;
+    border: 2px solid salmon;
+}
+
+.firstSection{
+    height: 90%;
+    width: 100%;
+    border: 2px solid blue;
+}
+
+.hOneHouse{
+    height: 55%;
+    width: 50%;
+    border: 2px solid brown;
+}
+
+.firstButtonHouse{
+    height: 10%;
+    width: 60%;
+    border: 2px solid green;
+}
+
+.firstSectionIcons{
+    height: 10%;
+    width: 30%;
+    border: 2px solid greenyellow;
+}
+
+.secondSection{
+    height: 90%;
+    width: 100%;
+    border: 2px solid goldenrod;
+}
+
+.secondSectionContent{
+    display: flex;
+    flex-direction: column;
+    height: 80%;
+    width: 50%;
+    border: 2px solid pink;
+}
+
+.housesSpan{
+    height: 10%;
+    width: 20%;
+    border: 2px solid darkslategray;
+}
+
+.hTwoHouse{
+    height: 30%;
+    width: 100%;
+    border: 2px solid blueviolet;
+}
+
+.paragraphOne{
+    height: 60%;
+    width: 100%;
+    border: 2px solid violet;
+}
+
+.housesSecondButton{
+    height: 10%;
+    width: 30%;
+    border: 2px solid darkkhaki;
+}
+
+.thirdSection{
+    height: 90%;
+    width: 100%;
+    border: 2px solid cyan;
+}
+
+.housesSecondSpan{
+    height: 10%;
+    width: 20%;
+    border: 2px solid chartreuse;
+}
+
+.housesThirdHOne{
+    height: 10%;
+    width: 60%;
+    border: 2px solid cornflowerblue;
+}
+
+.imagesLabelSubSet{
+    display: flex;
+    height: 10%;
+    width: 50%;
+    border: 2px solid rosybrown;
+}
+
+.firstSubDiv{
+    height: 100%;
+    width: 20%;
+    border: 2px solid palegreen;
+}
+
+.secondSubDiv{
+    height: 100%;
+    width: 20%;
+    border: 2px solid paleturquoise;
+}
+
+.thirdSubDiv{
+    height: 100%;
+    width: 20%;
+    border: 2px solid palevioletred;
+}
+
+.fourthSubDiv{
+    height: 100%;
+    width: 20%;
+    border: 2px solid chocolate;
+}
+
+.fifthSubDiv{
+    height: 100%;
+    width: 20%;
+    border: 2px solid cornsilk;
+}
 
 
 /******************************************
