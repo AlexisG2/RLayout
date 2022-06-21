@@ -83,6 +83,8 @@ header{
 }
 
 .secondSection{
+    display: flex;
+    flex-direction: column;
     height: 90%;
     width: 100%;
     border: 2px solid goldenrod;
@@ -288,15 +290,33 @@ header{
 }
 
 .imageContainer{
-    height: 35%;
-    width: 35%;
+    height: 80%;
+    width: 50%;
     border: 2px solid green;
 }
 
-#LastHOne{
+#LastHTwo{
     height: 10%;
     width: 40%;
     border: 2px solid lightblue;
+}
+
+#LastSpan{
+    height: 5%;
+    width: 10%;
+    border: 2px solid burlywood;
+}
+
+#stars{
+    height: 10%;
+    width: 40%;
+    border: 2px solid grey;
+}
+
+#LastParagraph{
+    height: 50%;
+    width: 70%;
+    border: 2px solid orange;
 }
 
 
