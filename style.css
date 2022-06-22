@@ -101,6 +101,9 @@ header{
 .secondSectionContent{
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10%;
     height: 80%;
     width: 50%;
     border: 2px solid pink;
@@ -301,6 +304,10 @@ header{
 }
 
 .imageContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     height: 80%;
     width: 50%;
     border: 2px solid green;
