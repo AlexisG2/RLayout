@@ -75,6 +75,10 @@ header{
 }
 
 .hOneHouse{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
     margin-top: 10%;
     margin-left: 9%;
     margin-bottom: 4%;
@@ -83,12 +87,29 @@ header{
     border: 2px solid brown;
 }
 
+#FirstBigHeader{
+    font-size: 70px;
+    text-align: left;
+}
+
+
 .firstButtonHouse{
+    display: flex;
     margin-left: 9%;
     margin-bottom: 4%;
     height: 10%;
     width: 60%;
     border: 2px solid green;
+}
+
+#inputBox{
+    height: 100%;
+    width: 80%;
+}
+
+#firstButton{
+    height: 100%;
+    width: 20%;
 }
 
 .firstSectionIcons{
