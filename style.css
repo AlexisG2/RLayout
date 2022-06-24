@@ -49,6 +49,11 @@ header{
     border: 2px solid green;
 }
 
+#logoImage{
+    height: 100%;
+    width: 100%;
+}
+
 .list{
     display: flex;
     align-items: center;
@@ -66,6 +71,11 @@ header{
     height: 100%;
     width: 20%;
     border: 2px solid salmon;
+}
+
+#iconImages{
+    height: 100%;
+    width: 100%;
 }
 
 .firstSection{
@@ -110,6 +120,11 @@ header{
 #firstButton{
     height: 100%;
     width: 20%;
+}
+
+#icons{
+    height: 100%;
+    width: 100%;
 }
 
 .firstSectionIcons{
