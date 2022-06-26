@@ -387,3 +387,13 @@ header{
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+.firstSection{
+    background-image: url(bgFirstSec.jpeg);
+}
+
+.secondSection{
+    background-image: url(secondSecBG.jpeg);
+    background-size: cover;
+    
+}
