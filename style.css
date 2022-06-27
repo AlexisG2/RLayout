@@ -243,7 +243,7 @@ header{
     align-items: center;
     justify-content: space-evenly;
     height: 70%;
-    width: 60%;
+    width: 90%;
     border: 2px solid mediumseagreen;
 }
 
@@ -395,5 +395,13 @@ header{
 .secondSection{
     background-image: url(secondSecBG.jpeg);
     background-size: cover;
-    
+}
+
+.thirdSection{
+    background: rgb(243, 246, 247);
+}
+
+#theFoodImages{
+    height: 100%;
+    width: 100%;
 }
