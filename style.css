@@ -522,8 +522,12 @@ header{
     color: orange;
 }
 
-.hTwoHouse, .housesThirdHOne, .housesFourthSecH1, #times{
+.hTwoHouse, .housesThirdHOne, .housesFourthSecH1, #times, .containsLastHOne{
     font-family: Kanit, sans-serif, Roboto;
+}
+
+.paragraphOne, #LastParagraph, #days, #LastHTwo, .housesFifthSectionSpan, .housesFourthSecSpan, .housesSpan, #LastSpan, .imagesLabelSubSet{
+    font-family: Barlow, sans-serif, 'Times New Roman', Times, serif;
 }
 
 
