@@ -522,7 +522,9 @@ header{
     color: orange;
 }
 
-.hTwoHouse, .housesThirdHOne, .housesFourthSecH1{
+.hTwoHouse, .housesThirdHOne, .housesFourthSecH1, #times{
     font-family: Kanit, sans-serif, Roboto;
 }
+
+
 
