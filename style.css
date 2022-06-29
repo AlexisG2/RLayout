@@ -81,7 +81,7 @@ header{
 .firstSection{
     height: 100%;
     width: 100%;
-    border: 2px solid blue;
+    border: 0.5px solid white;
 }
 
 .hOneHouse{
@@ -94,7 +94,6 @@ header{
     margin-bottom: 4%;
     height: 40%;
     width: 50%;
-    border: 2px solid brown;
 }
 
 #FirstBigHeader{
@@ -110,7 +109,6 @@ header{
     margin-bottom: 4%;
     height: 10%;
     width: 60%;
-    border: 2px solid green;
 }
 
 #inputBox{
@@ -132,7 +130,6 @@ header{
     margin-left: 9%;
     height: 10%;
     width: 30%;
-    border: 2px solid greenyellow;
 }
 
 .secondSection{
@@ -142,7 +139,6 @@ header{
     align-items: flex-end;
     height: 90%;
     width: 100%;
-    border: 2px solid goldenrod;
 }
 
 .secondSectionContent{
@@ -153,7 +149,6 @@ header{
     margin-right: 10%;
     height: 80%;
     width: 50%;
-    border: 2px solid pink;
 }
 
 .housesSpan{
@@ -163,7 +158,6 @@ header{
     margin-right: 80%;
     height: 10%;
     width: 20%;
-    border: 2px solid darkslategray;
 }
 
 .hTwoHouse{
@@ -172,7 +166,6 @@ header{
     justify-content: center;
     height: 30%;
     width: 100%;
-    border: 2px solid blueviolet;
 }
 
 .paragraphOne{
@@ -183,7 +176,6 @@ header{
     text-align: center;
     height: 60%;
     width: 100%;
-    border: 2px solid violet;
 }
 
 .housesSecondButton{
@@ -192,7 +184,6 @@ header{
     justify-content: center;
     height: 10%;
     width: 30%;
-    border: 2px solid darkkhaki;
 }
 
 .thirdSection{
@@ -202,7 +193,6 @@ header{
     justify-content: center;
     height: 90%;
     width: 100%;
-    border: 2px solid cyan;
 }
 
 .housesSecondSpan{
@@ -211,7 +201,6 @@ header{
     justify-content: center;
     height: 10%;
     width: 20%;
-    border: 2px solid chartreuse;
 }
 
 .housesThirdHOne{
@@ -220,7 +209,6 @@ header{
     justify-content: center;
     height: 10%;
     width: 60%;
-    border: 2px solid cornflowerblue;
 }
 
 .imagesLabelSubSet{
@@ -229,7 +217,6 @@ header{
     align-items: center;
     height: 10%;
     width: 50%;
-    border: 2px solid rosybrown;
 }
 
 .firstSubDiv{
@@ -238,7 +225,6 @@ header{
     justify-content: center;
     height: 100%;
     width: 20%;
-    border: 2px solid palegreen;
 }
 
 .secondSubDiv{
@@ -247,7 +233,6 @@ header{
     justify-content: center;
     height: 100%;
     width: 20%;
-    border: 2px solid paleturquoise;
 }
 
 .thirdSubDiv{
@@ -256,7 +241,6 @@ header{
     justify-content: center;
     height: 100%;
     width: 20%;
-    border: 2px solid palevioletred;
 }
 
 .fourthSubDiv{
@@ -501,6 +485,7 @@ header{
 #discoverMenuButton{
     height: 100%;
     width: 100%;
+    background: orange;
 }
 
 .housesSpan{
@@ -527,7 +512,7 @@ header{
     font-family: Kanit, sans-serif, Roboto;
 }
 
-.paragraphOne, #LastParagraph, #days, #LastHTwo, .housesFifthSectionSpan, .housesFourthSecSpan, .housesSpan, #LastSpan, .imagesLabelSubSet{
+.paragraphOne, #LastParagraph, #days, #LastHTwo, .housesFifthSectionSpan, .housesFourthSecSpan, .housesSpan, #LastSpan, .imagesLabelSubSet, .housesSecondSpan   {
     font-family: Barlow, sans-serif, 'Times New Roman', Times, serif;
 }
 
