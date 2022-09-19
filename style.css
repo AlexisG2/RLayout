@@ -195,9 +195,47 @@ header{
 }
 
 .fourthSection{
-    height: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 110%;
     width: 100%;
     border: 2px solid blueviolet;
+}
+
+.topContentPortionFourth{
+    height: 50%;
+    width: 60%;
+    border: 2px solid red;
+}
+
+.housesFourthSecSpan{
+    height: 10%;
+    width: 20%;
+    border: 2px solid greenyellow;
+}
+
+.housesFourthSecH1{
+    height: 20%;
+    width: 40%;
+    border: 2px solid orange;
+}
+
+.phoneImage{
+    height: 30%;
+    width: 10%;
+    border: 2px solid violet;
+}
+
+.housesSecondFourthSpan{
+    height: 10%;
+    width: 20%;
+    border: 2px solid blue;
+}
+
+.housesSecondHTwoSpan{
+    height: 10%;
+    width: 20%;
+    border: 2px solid greenyellow;
 }
 /******************************************
 /* ADDITIONAL STYLES
